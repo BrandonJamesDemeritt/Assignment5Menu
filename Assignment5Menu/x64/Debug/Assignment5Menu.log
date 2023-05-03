@@ -1,0 +1,3 @@
+﻿  DemerittMenu.cpp
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\Assignment5Menu\Assignment5Menu\DemerittMenu.cpp(119,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment5Menu.vcxproj -> C:\School\Spring 2023\CPT-182 Programming with C++\Projects\Assignment5Menu\x64\Debug\Assignment5Menu.exe
